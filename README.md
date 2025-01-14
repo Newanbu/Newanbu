@@ -1,5 +1,5 @@
 <h1 align="center">Hola Soy John Selti</h1>
-<p align="left">Soy un programador Full-Stack dedicado a la area de Front-End, en el transcurso de mi carrera eh brindado soluciones para tiendas de mi localidad, en el transcurso brinde soluciones de manera que sean de forma manual a automatizarlas para brindar una simplificacion de trabajo pesado, al igual que eh adquirido mas de 2 años de conocimiento en los lenguajes que se muestran en la parte de mas abajo, trabajando con todos para brindar soluciones correctas</p>
+<p align="left">Soy un programador Full-Stack dedicado a la área de Front-End, en el transcurso de mi carrera eh brindado soluciones para tiendas de mi localidad, en el transcurso brinde soluciones de manera que sean de forma manual a automatizarlas para brindar una simplificacion de trabajo pesado, al igual que eh adquirido mas de 2 años de conocimiento en los lenguajes que se muestran en la parte de mas abajo, trabajando con todos para brindar soluciones correctas</p>
 
 - Desarrollo de un gestor de inventario de materiales de construcción, arreglo en el ingreso de bodega interna con roles **Solución Elancar**
 
