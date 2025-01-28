@@ -1,4 +1,4 @@
-<h1 align="center">Hola Soy John Selti</h1>
+<h1 align="left">Hola Soy John Selti</h1>
 <p align="left">Soy un programador Full-Stack especializado en el área de Front-End. A lo largo de mi carrera, he desarrollado soluciones para tiendas de mi localidad, transformando procesos manuales en sistemas automatizados para simplificar y optimizar tareas complejas. Además, cuento con más de 2 años de experiencia en los lenguajes que se detallan a continuación, utilizándolos para ofrecer soluciones eficientes y de alta calidad.
 
 </p>
