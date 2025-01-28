@@ -1,16 +1,53 @@
-<h1 align="left">Hola Soy John Selti</h1>
-<p align="left">Soy un programador Full-Stack especializado en el área de Front-End. A lo largo de mi carrera, he desarrollado soluciones para tiendas de mi localidad, transformando procesos manuales en sistemas automatizados para simplificar y optimizar tareas complejas. Además, cuento con más de 2 años de experiencia en los lenguajes que se detallan a continuación, utilizándolos para ofrecer soluciones eficientes y de alta calidad.
+<h1 align="center">Hola, soy John Selti 👨‍💻</h1>
 
-</p>
-
-- Desarrollo de un gestor de inventario de materiales de construcción, arreglo en el ingreso de bodega interna con roles **Solución Elancar**
-
-- Desarrollo de un gestor de inventario de una tienda de ventas de instrumentos y vinilos, verificación de stock **Solución Rinconcito Musical**
-
-<h2 align="center">Contactame!</h3>
 <p align="center">
-<a href="https://linkedin.com/in/john-esteban-selti-alcayaga-48ba33235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-esteban-selti-alcayaga" height="30" width="40" /></a>
+  Programador Full-Stack especializado en el área de Front-End, apasionado por transformar ideas en soluciones digitales eficientes y escalables. Mi objetivo es crear herramientas que simplifiquen procesos y aporten valor a las empresas y usuarios.
 </p>
 
-<h2 align="center">Lenguajes Y Herramientas</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 **Sobre mí**
+- 💼 **Experiencia:** He trabajado en la automatización de sistemas de inventario para empresas locales, mejorando la gestión de recursos mediante herramientas digitales personalizadas.
+- 🎯 **Habilidades:** Más de 2 años de experiencia trabajando con tecnologías como **ReactJS**, **TypeScript**, **Python** y **Django**.
+- 🌱 **Actualmente aprendiendo:** Desarrollo móvil con **React Native** y arquitectura de microservicios.
+- 💬 **Frase personal:** _"Resolver problemas no solo es un desafío, sino una oportunidad para innovar."_  
+
+---
+
+### ✨ **Proyectos destacados**
+- **Gestor de Inventario - Elancar**  
+  Transformé el flujo de trabajo interno de una tienda de materiales de construcción con un sistema que administra categorías, roles de usuario y bodega interna.  
+  **Tecnologías:** React, Node.js, MongoDB.
+
+- **Gestor de Inventario - Rinconcito Musical**  
+  Implementé un sistema que permite gestionar vinilos y otros productos, facilitando el seguimiento de stock para una tienda de música.  
+  **Tecnologías:** Django, PostgreSQL, React.
+
+---
+
+### 🛠️ **Lenguajes y Herramientas**
+<p align="center"> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> 
+</p>
+
+---
+
+### 📬 **¡Contáctame!**
+<p align="center">
+  <a href="https://linkedin.com/in/john-esteban-selti-alcayaga-48ba33235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:johnselti123@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a>
+  <a href="https://github.com/johnselti" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
+
+---
+
