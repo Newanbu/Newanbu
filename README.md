@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/john-esteban-selti-alcayaga-48ba33235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:johnselti123@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a>
-  <a href="https://github.com/johnselti" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://github.com/Newanbu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ---
